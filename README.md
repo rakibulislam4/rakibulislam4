@@ -30,6 +30,7 @@ Connect with me on social media platforms and let's build something amazing toge
 - GitHub: [Click here to go to my GitHub](https://github.com/rakibulislam4) <br/>
 Feel free to reach out if you have any questions, collaborations, or just want to chat. 😊
 <br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam4)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulislam4)](https://github.com/anuraghazra/github-readme-stats) 
+
 Happy coding!
