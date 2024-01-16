@@ -6,7 +6,6 @@ I'm a passionate Frontend Developer with expertise in HTML, CSS, JavaScript, and
 
 - **Languages:** HTML, CSS, JavaScript
 - **Library/Framework:** ReactJS
-- **Other Technologies:** [Mention any other relevant technologies/tools]
 
 ## 📬 Get in Touch
 
@@ -28,7 +27,7 @@ Connect with me on social media platforms and let's build something amazing toge
 
 - Twitter: [Click here to go to my Twitter](https://twitter.com/tastytanticles)
 
-- GitHub: [Click here to go to my GitHub](https://github.com/rakibulislam4)
+- GitHub: [Click here to go to my GitHub](https://github.com/rakibulislam4) <br/>
 Feel free to reach out if you have any questions, collaborations, or just want to chat. 😊
 
 Happy coding!
