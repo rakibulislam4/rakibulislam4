@@ -26,9 +26,9 @@ I'm a passionate Frontend Developer with expertise in HTML, CSS, JavaScript, and
 
 Connect with me on social media platforms and let's build something amazing together.
 
-- Twitter: [Your Twitter Handle]([https://twitter.com/yourtwitter](https://twitter.com/tastytanticles))
+- Twitter: [](https://twitter.com/tastytanticles)
 
-- GitHub: [Your GitHub Profile]([https://github.com/yourusername](https://github.com/rakibulislam4))
+- GitHub: [](https://github.com/rakibulislam4)
 
 Feel free to reach out if you have any questions, collaborations, or just want to chat. 😊
 
