@@ -37,4 +37,6 @@ Feel free to reach out if you have any questions, collaborations, or just want t
 <br/>
 ![](https://komarev.com/ghpvc/?username=rakibulislam4&color=green)
 <br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibulislam4&show_icons=true&count_private=true)
+<br/>
 Happy coding!
